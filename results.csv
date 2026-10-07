@@ -1,0 +1,11 @@
+Example,Basic Prompt Correctness,Improved Prompt Correctness,Instruction Following,Observation
+1,Yes,Yes,Improved,Improved prompt gave a clearer summary
+2,Yes,Yes,Improved,Specific fields were extracted
+3,Yes,Yes,Improved,Categories and output format were clearly followed
+4,Yes,Yes,Improved,Answer stayed within the provided information
+5,Yes,Yes,Improved,Translation instructions were clearer
+6,Yes,Yes,Improved,Classification format was clearer
+7,Yes,Yes,Improved,Email tone and length were better controlled
+8,Yes,Yes,Improved,Review was more structured and avoided unsupported claims
+9,Yes,Yes,Improved,Information was returned in the requested structure
+10,Yes,Yes,Improved,Response followed the requested three-bullet format
